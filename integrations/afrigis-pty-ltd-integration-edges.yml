@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/afrigis-pty-ltd/integrations
+- https://n8n.io/integrations/afrigis-pty-ltd/
+- https://composio.dev/toolkits/afrigis-pty-ltd
+- https://monid.ai/tools/afrigis-pty-ltd
+checked:
+- https://composio.dev/toolkits/afrigis-pty-ltd
+- https://monid.ai/tools/afrigis-pty-ltd
+- https://n8n.io/integrations/afrigis-pty-ltd/
+- https://zapier.com/apps/afrigis-pty-ltd/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
